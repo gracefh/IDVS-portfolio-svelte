@@ -28,40 +28,6 @@ h2, h3, h4, h5, h6 {
 h2 {
   color: var(--text-secondary);
 }
-nav {
-  display: flex;
-  margin-bottom:1.5em;
-  border-bottom: 1px solid var(--nav-border);
-}
-
-nav ul {
-  display: contents;
-}
-
-nav li {
-  display: contents;
-}
-
-nav a {
-  flex: 1;
-  text-decoration: none;
-  color: inherit;
-  text-align: center;
-  padding: 0.5em;
-  font-weight:600;
-
-  &:hover {
-    color:var(--text-secondary);
-  }
-}
-
-.current {
-  
-  border-bottom: .4em solid var(--color-accent);
-  padding-bottom:1em;
-  color:var(--text-secondary);
-}
-
 form {
   display:grid;
   grid-template-columns: auto 1fr;
@@ -82,15 +48,6 @@ img {
   display:grid;
   grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
   gap: 1em;
-}
-
-.projects h2 {
-  margin: 0
-}
-.projects article {
-  display:grid;
-  grid-template-rows: subgrid;
-  grid-row: span 3;
 }
 
 .resume-item {
