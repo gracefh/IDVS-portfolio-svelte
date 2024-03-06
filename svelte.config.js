@@ -7,7 +7,7 @@ const config = {
 			fallback: '404.html'
 		}),
 		paths: {
-			base: process.argv.includes('dev') ? '' : 'https://gracefh.github.io/IDVS-portfolio-svelte'
+			base: process.argv.includes('dev') ? '' : '/IDVS-portfolio-svelte'
 		}
 	}
 };
