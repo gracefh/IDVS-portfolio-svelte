@@ -13,13 +13,13 @@
 </article>
 
 <style>
-    h2,
-    h3 {
-      margin: 0;
-    }
-    article {
-      display: grid;
-      grid-template-rows: subgrid;
-      grid-row: span 3;
-    }
-  </style>
+  h2,
+  h3 {
+    margin: 0;
+  }
+  article {
+    display: grid;
+    grid-template-rows: subgrid;
+    grid-row: span 3;
+  }
+</style>
