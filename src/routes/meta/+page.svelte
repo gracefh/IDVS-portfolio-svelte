@@ -25,9 +25,12 @@
     { title: "Total LOC", value: data.length },
     {
       title: "Average File Length",
-      value: d3.mean(
-        d3.groups(data, (d) => d.file).map(([file, lines]) => lines.length)
-      ),
+      value:
+        Math.round(
+          d3.mean(
+            d3.groups(data, (d) => d.file).map(([file, lines]) => lines.length)
+          ) * 100
+        ) / 100,
     },
     {
       title: "Maximum File Length",
@@ -118,11 +121,15 @@
   }
   let hoveredIndex = -1;
   $: hoveredCommit = commits[hoveredIndex] ?? {};
+
+  let cursor = { x: 0, y: 0 };
 </script>
 
+<h1>Meta Stats</h1>
 <p>Total lines of code: {data.length}</p>
 <Stats data={stats} />
 
+<h2>Commits by Time of Day</h2>
 <svg viewBox="0 0 {width} {height}">
   <g
     class="gridlines"
@@ -142,9 +149,32 @@
       cy={yScale(commit.datetime.getHours())}
       r="5"
       fill="steelblue"
+      on:mouseenter={(evt) => {
+        hoveredIndex = index;
+        cursor = { x: evt.x, y: evt.y };
+      }}
+      on:mouseleave={(evt) => (hoveredIndex = -1)}
     />
   {/each}</svg
 >
+
+<dl
+  class="info"
+  hidden={hoveredIndex === -1}
+  style="top: {cursor.y}px; left: {cursor.x}px"
+>
+  <dt>COMMIT</dt>
+  <dd><a href={hoveredCommit.url} target="_blank">{hoveredCommit.id}</a></dd>
+
+  <dt>AUTHOR</dt>
+  <dd>{hoveredCommit.author}</dd>
+  <dt>DATE</dt>
+  <dd>{hoveredCommit.datetime?.toLocaleString("en", { date: "full" })}</dd>
+
+  <dt>LINES EDITED</dt>
+  <dd>{hoveredCommit.lines?.length}</dd>
+  <!-- Add: Time, author, lines edited -->
+</dl>
 
 <style>
   svg {
@@ -153,5 +183,51 @@
 
   .gridlines {
     stroke-opacity: 0.2;
+  }
+
+  dl.info {
+    background-color: rgba(178, 227, 200, 0.2);
+    
+    position: fixed;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 1em;
+
+    width:auto;
+    padding:1em;
+
+    transition-duration: 200ms;
+    transition-property: opacity, visibility;
+
+    &[hidden]:not(:hover, :focus-within) {
+      opacity: 0;
+      visibility: hidden;
+
+      /* Don’t allow interaction with it when it’s hidden */
+      pointer-events: none;
+
+      /* Don’t hide it immediately when we mouse away */
+      transition-delay: 500ms;
+    }
+  }
+
+  .info dt {
+    font-weight:500
+  }
+  dd {
+    margin-inline: 0;
+  }
+
+  circle {
+    transition: 200ms;
+
+    transform-origin: 50% 50%;
+    transform-box: fill-box;
+
+    &:hover {
+      transform: scale(1.2);
+      /* transform-origin: 50% 50%; */
+      /* transition:.3s; */
+    }
   }
 </style>
