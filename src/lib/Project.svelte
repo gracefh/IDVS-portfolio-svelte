@@ -1,15 +1,18 @@
 <script>
   export let info = {};
   export let hlevel = 2;
-  let p = info;
 </script>
 
 <article>
-  <svelte:element this={"h" + hlevel}>{p.title}</svelte:element>
-  <img src={p.image} alt="" />
-  <p>
-    {p.description}
-  </p>
+  <svelte:element this={"h" + hlevel}>{info.title}</svelte:element>
+
+  <img src={info.image} alt="" />
+  <div>
+    <p>
+      {info.description}
+    </p>
+    <p class="year">{info.year}</p>
+  </div>
 </article>
 
 <style>
@@ -21,5 +24,9 @@
     display: grid;
     grid-template-rows: subgrid;
     grid-row: span 3;
+  }
+
+  .year {
+    color: gray;
   }
 </style>

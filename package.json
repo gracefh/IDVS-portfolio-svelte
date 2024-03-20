@@ -15,5 +15,8 @@
 		"svelte": "^5.0.0-next.72",
 		"vite": "^5.0.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"d3": "^7.9.0"
+	}
 }
