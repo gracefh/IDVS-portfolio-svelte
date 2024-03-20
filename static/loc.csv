@@ -1,0 +1,586 @@
+file,line,type,commit,author,date,time,timezone,datetime,depth,length
+src/style.css,1,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,6
+src/style.css,2,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,22
+src/style.css,3,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,37
+src/style.css,4,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,24
+src/style.css,5,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,32
+src/style.css,6,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,7,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,8,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,6
+src/style.css,9,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,43
+src/style.css,10,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,3,38
+src/style.css,11,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,2,0
+src/style.css,12,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,14
+src/style.css,13,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,18
+src/style.css,14,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,11
+src/style.css,15,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,37
+src/style.css,16,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,14
+src/style.css,17,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,18,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,19,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,4
+src/style.css,20,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,14
+src/style.css,21,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,38
+src/style.css,22,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,23,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,24,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,3
+src/style.css,25,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,3
+src/style.css,26,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,3
+src/style.css,27,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,3
+src/style.css,28,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,4
+src/style.css,29,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,15
+src/style.css,30,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,17
+src/style.css,31,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,38
+src/style.css,32,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,0
+src/style.css,33,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,34,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,35,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,4
+src/style.css,36,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,27
+src/style.css,37,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,38,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,6
+src/style.css,39,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,12
+src/style.css,40,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,30
+src/style.css,41,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,7
+src/style.css,42,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,43,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,44,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,6
+src/style.css,45,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,8
+src/style.css,46,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,12
+src/style.css,47,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,29
+src/style.css,48,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,17
+src/style.css,49,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,50,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,51,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,5
+src/style.css,52,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,14
+src/style.css,53,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,54,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,55,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,11
+src/style.css,56,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,12
+src/style.css,57,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,58
+src/style.css,58,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,7
+src/style.css,59,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,60,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,61,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,14
+src/style.css,62,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,14
+src/style.css,63,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,64,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,65,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,17
+src/style.css,66,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,14
+src/style.css,67,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,68,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,27
+src/style.css,69,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,12
+src/style.css,70,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,29
+src/style.css,71,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,15
+src/style.css,72,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,73,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,74,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,32
+src/style.css,75,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,27
+src/style.css,76,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/style.css,77,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/style.css,78,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,15
+src/style.css,79,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,17
+src/style.css,80,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,8
+src/style.css,81,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,1,10
+src/style.css,82,css,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+src/app.html,1,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,15
+src/app.html,2,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,16
+src/app.html,3,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,6
+src/app.html,4,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,24
+src/app.html,5,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,57
+src/app.html,6,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,70
+src/app.html,7,html,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,66
+src/app.html,8,html,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+src/app.html,9,html,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,59
+src/app.html,10,html,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,68
+src/app.html,11,html,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,111
+src/app.html,12,html,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,17
+src/app.html,13,html,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,38
+src/app.html,14,html,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,8
+src/app.html,15,html,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,36
+src/app.html,16,html,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,59
+src/app.html,17,html,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,52
+src/app.html,18,html,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,9
+src/app.html,19,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,16
+src/app.html,20,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,7
+src/app.html,21,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,42
+src/app.html,22,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,53
+src/app.html,23,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,7
+src/app.html,24,html,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,7
+src/routes/+page.svelte,1,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,8
+src/routes/+page.svelte,2,js,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,40
+src/routes/+page.svelte,3,js,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,42
+src/routes/+page.svelte,4,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,31
+src/routes/+page.svelte,5,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,0
+src/routes/+page.svelte,6,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,15
+src/routes/+page.svelte,7,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,22
+src/routes/+page.svelte,8,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,18
+src/routes/+page.svelte,9,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,18
+src/routes/+page.svelte,10,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,21
+src/routes/+page.svelte,11,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,5
+src/routes/+page.svelte,12,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,0
+src/routes/+page.svelte,13,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,7
+src/routes/+page.svelte,14,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,0
+src/routes/+page.svelte,15,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,19
+src/routes/+page.svelte,16,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,58
+src/routes/+page.svelte,17,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,20
+src/routes/+page.svelte,18,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,1
+src/routes/+page.svelte,19,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,9
+src/routes/+page.svelte,20,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/+page.svelte,21,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,20
+src/routes/+page.svelte,22,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,4
+src/routes/+page.svelte,23,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,26
+src/routes/+page.svelte,24,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,24
+src/routes/+page.svelte,25,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,15
+src/routes/+page.svelte,26,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,2
+src/routes/+page.svelte,27,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,3
+src/routes/+page.svelte,28,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,72
+src/routes/+page.svelte,29,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,73
+src/routes/+page.svelte,30,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,64
+src/routes/+page.svelte,31,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,4
+src/routes/+page.svelte,32,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/+page.svelte,33,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,28
+src/routes/+page.svelte,34,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,33
+src/routes/+page.svelte,35,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,56
+src/routes/+page.svelte,36,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,6
+src/routes/+page.svelte,37,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,0
+src/routes/+page.svelte,38,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,10
+src/routes/+page.svelte,39,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,26
+src/routes/+page.svelte,40,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,2
+src/routes/+page.svelte,41,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,1
+src/routes/+page.svelte,42,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,15
+src/routes/+page.svelte,43,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,0
+src/routes/+page.svelte,44,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,4,11
+src/routes/+page.svelte,45,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,0
+src/routes/+page.svelte,46,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,2
+src/routes/+page.svelte,47,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,1
+src/routes/+page.svelte,48,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,16
+src/routes/+page.svelte,49,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,0
+src/routes/+page.svelte,50,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,4,8
+src/routes/+page.svelte,51,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,0
+src/routes/+page.svelte,52,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,2
+src/routes/+page.svelte,53,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,1
+src/routes/+page.svelte,54,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,16
+src/routes/+page.svelte,55,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,0
+src/routes/+page.svelte,56,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,4,8
+src/routes/+page.svelte,57,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,0
+src/routes/+page.svelte,58,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,2
+src/routes/+page.svelte,59,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,1
+src/routes/+page.svelte,60,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,19
+src/routes/+page.svelte,61,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,0
+src/routes/+page.svelte,62,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,4,11
+src/routes/+page.svelte,63,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,0
+src/routes/+page.svelte,64,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,2
+src/routes/+page.svelte,65,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,3
+src/routes/+page.svelte,66,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,7
+src/routes/+page.svelte,67,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,31
+src/routes/+page.svelte,68,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,5
+src/routes/+page.svelte,69,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,0
+src/routes/+page.svelte,70,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,7
+src/routes/+page.svelte,71,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,2
+src/routes/+page.svelte,72,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,10
+src/routes/+page.svelte,73,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,26
+src/routes/+page.svelte,74,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,0
+src/routes/+page.svelte,75,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,0
+src/routes/+page.svelte,76,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,6
+src/routes/+page.svelte,77,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,14
+src/routes/+page.svelte,78,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,0
+src/routes/+page.svelte,79,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,2
+src/routes/+page.svelte,80,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,8
+src/routes/+page.svelte,81,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,7
+src/routes/+page.svelte,82,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,3,5
+src/routes/+page.svelte,83,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,21
+src/routes/+page.svelte,84,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,12
+src/routes/+page.svelte,85,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,0
+src/routes/+page.svelte,86,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,0
+src/routes/+page.svelte,87,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,2
+src/routes/+page.svelte,88,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,12
+src/routes/+page.svelte,89,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,0
+src/routes/+page.svelte,90,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,8
+src/routes/+layout.svelte,1,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,8
+src/routes/+layout.svelte,2,js,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,33
+src/routes/+layout.svelte,3,js,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,20
+src/routes/+layout.svelte,4,js,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/+layout.svelte,5,js,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,11
+src/routes/+layout.svelte,6,js,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,25
+src/routes/+layout.svelte,7,js,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,37
+src/routes/+layout.svelte,8,js,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,35
+src/routes/+layout.svelte,9,js,00000000,Not Committed Yet,2024-03-19,23:30:25,-04:00,2024-03-19T23:30:25-04:00,2,29
+src/routes/+layout.svelte,10,js,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,29
+src/routes/+layout.svelte,11,js,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,51
+src/routes/+layout.svelte,12,js,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,0
+src/routes/+layout.svelte,13,js,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,0
+src/routes/+layout.svelte,14,js,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,48
+src/routes/+layout.svelte,15,js,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,57
+src/routes/+layout.svelte,16,js,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,47
+src/routes/+layout.svelte,17,js,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,0
+src/routes/+layout.svelte,18,js,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,40
+src/routes/+layout.svelte,19,js,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,54
+src/routes/+layout.svelte,20,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,9
+src/routes/+layout.svelte,21,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/+layout.svelte,22,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,5
+src/routes/+layout.svelte,23,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,16
+src/routes/+layout.svelte,24,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,0
+src/routes/+layout.svelte,25,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,3,6
+src/routes/+layout.svelte,26,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,3,40
+src/routes/+layout.svelte,27,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,3,58
+src/routes/+layout.svelte,28,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,0
+src/routes/+layout.svelte,29,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,5
+src/routes/+layout.svelte,30,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,6
+src/routes/+layout.svelte,31,svelte,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,28
+src/routes/+layout.svelte,32,svelte,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,4
+src/routes/+layout.svelte,33,svelte,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,31
+src/routes/+layout.svelte,34,svelte,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,41
+src/routes/+layout.svelte,35,svelte,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,32
+src/routes/+layout.svelte,36,svelte,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,30
+src/routes/+layout.svelte,37,svelte,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,7
+src/routes/+layout.svelte,38,svelte,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,8
+src/routes/+layout.svelte,39,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,8
+src/routes/+layout.svelte,40,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/+layout.svelte,41,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,7
+src/routes/+layout.svelte,42,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,3
+src/routes/+layout.svelte,43,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,10
+src/routes/+layout.svelte,44,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,17
+src/routes/+layout.svelte,45,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,39
+src/routes/+layout.svelte,46,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,0
+src/routes/+layout.svelte,47,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/+layout.svelte,48,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,6
+src/routes/+layout.svelte,49,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,14
+src/routes/+layout.svelte,50,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,0
+src/routes/+layout.svelte,51,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/+layout.svelte,52,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,6
+src/routes/+layout.svelte,53,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,14
+src/routes/+layout.svelte,54,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,0
+src/routes/+layout.svelte,55,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/+layout.svelte,56,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,5
+src/routes/+layout.svelte,57,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,4
+src/routes/+layout.svelte,58,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,18
+src/routes/+layout.svelte,59,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,11
+src/routes/+layout.svelte,60,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,15
+src/routes/+layout.svelte,61,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,11
+src/routes/+layout.svelte,62,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,13
+src/routes/+layout.svelte,63,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/+layout.svelte,64,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,5
+src/routes/+layout.svelte,65,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,3,23
+src/routes/+layout.svelte,66,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,0
+src/routes/+layout.svelte,67,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,0
+src/routes/+layout.svelte,68,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/+layout.svelte,69,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,8
+src/routes/+layout.svelte,70,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,43
+src/routes/+layout.svelte,71,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,16
+src/routes/+layout.svelte,72,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,2,25
+src/routes/+layout.svelte,73,css,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,0
+src/routes/+layout.svelte,74,css,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,6
+src/routes/+layout.svelte,75,css,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,17
+src/routes/+layout.svelte,76,css,3c193e83,Grace Huang      ,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,0
+src/routes/+layout.svelte,77,svelte,4a6f8f35,Grace Huang      ,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,8
+src/routes/projects/+page.svelte,1,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,8
+src/routes/projects/+page.svelte,2,js,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,40
+src/routes/projects/+page.svelte,3,js,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,42
+src/routes/projects/+page.svelte,4,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,23
+src/routes/projects/+page.svelte,5,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,32
+src/routes/projects/+page.svelte,6,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/routes/projects/+page.svelte,7,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,13
+src/routes/projects/+page.svelte,8,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/routes/projects/+page.svelte,9,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,25
+src/routes/projects/+page.svelte,10,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,15
+src/routes/projects/+page.svelte,11,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/routes/projects/+page.svelte,12,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,15
+src/routes/projects/+page.svelte,13,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/routes/projects/+page.svelte,14,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,81
+src/routes/projects/+page.svelte,15,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/routes/projects/+page.svelte,16,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,15
+src/routes/projects/+page.svelte,17,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/routes/projects/+page.svelte,18,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,19
+src/routes/projects/+page.svelte,19,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,50
+src/routes/projects/+page.svelte,20,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,8
+src/routes/projects/+page.svelte,21,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,55
+src/routes/projects/+page.svelte,22,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,38
+src/routes/projects/+page.svelte,23,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,0
+src/routes/projects/+page.svelte,24,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/routes/projects/+page.svelte,25,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,8
+src/routes/projects/+page.svelte,26,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,1
+src/routes/projects/+page.svelte,27,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,56
+src/routes/projects/+page.svelte,28,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,14
+src/routes/projects/+page.svelte,29,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,30
+src/routes/projects/+page.svelte,30,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,0
+src/routes/projects/+page.svelte,31,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/routes/projects/+page.svelte,32,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,8
+src/routes/projects/+page.svelte,33,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/routes/projects/+page.svelte,34,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,13
+src/routes/projects/+page.svelte,35,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,2
+src/routes/projects/+page.svelte,36,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,20
+src/routes/projects/+page.svelte,37,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,11
+src/routes/projects/+page.svelte,38,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,10
+src/routes/projects/+page.svelte,39,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,7
+src/routes/projects/+page.svelte,40,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,0
+src/routes/projects/+page.svelte,41,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,41
+src/routes/projects/+page.svelte,42,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,31
+src/routes/projects/+page.svelte,43,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,0
+src/routes/projects/+page.svelte,44,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/routes/projects/+page.svelte,45,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/routes/projects/+page.svelte,46,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,9
+src/routes/projects/+page.svelte,47,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/projects/+page.svelte,48,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,35
+src/routes/projects/+page.svelte,49,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,60
+src/routes/projects/+page.svelte,50,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,5
+src/routes/projects/+page.svelte,51,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,7
+src/routes/projects/+page.svelte,52,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,9
+src/routes/projects/+page.svelte,53,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,14
+src/routes/projects/+page.svelte,54,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,24
+src/routes/projects/+page.svelte,55,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,26
+src/routes/projects/+page.svelte,56,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/routes/projects/+page.svelte,57,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,6
+src/routes/projects/+page.svelte,58,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,22
+src/routes/projects/+page.svelte,59,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,39
+src/routes/projects/+page.svelte,60,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,6
+src/routes/projects/+page.svelte,61,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/routes/projects/+page.svelte,62,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,7
+src/routes/projects/+page.svelte,63,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,5
+src/routes/projects/+page.svelte,64,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,10
+src/routes/projects/+page.svelte,65,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/routes/projects/+page.svelte,66,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,8
+src/routes/cv/+page.svelte,1,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,10
+src/routes/cv/+page.svelte,2,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,4,0
+src/routes/cv/+page.svelte,3,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,6,26
+src/routes/cv/+page.svelte,4,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,6,37
+src/routes/cv/+page.svelte,5,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,6,39
+src/routes/cv/+page.svelte,6,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,6,29
+src/routes/cv/+page.svelte,7,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,6,60
+src/routes/cv/+page.svelte,8,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,4,0
+src/routes/cv/+page.svelte,9,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,2,6
+src/routes/cv/+page.svelte,10,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,15
+src/routes/cv/+page.svelte,11,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,9
+src/routes/cv/+page.svelte,12,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,16
+src/routes/cv/+page.svelte,13,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,27
+src/routes/cv/+page.svelte,14,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,21
+src/routes/cv/+page.svelte,15,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,64
+src/routes/cv/+page.svelte,16,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,14
+src/routes/cv/+page.svelte,17,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,2
+src/routes/cv/+page.svelte,18,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,1
+src/routes/cv/+page.svelte,19,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,0
+src/routes/cv/+page.svelte,20,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,4,0
+src/routes/cv/+page.svelte,21,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,5,60
+src/routes/cv/+page.svelte,22,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,5,17
+src/routes/cv/+page.svelte,23,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,4,0
+src/routes/cv/+page.svelte,24,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,0
+src/routes/cv/+page.svelte,25,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,2
+src/routes/cv/+page.svelte,26,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,8
+src/routes/cv/+page.svelte,27,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,27
+src/routes/cv/+page.svelte,28,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,21
+src/routes/cv/+page.svelte,29,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,51
+src/routes/cv/+page.svelte,30,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,14
+src/routes/cv/+page.svelte,31,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,2
+src/routes/cv/+page.svelte,32,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,1
+src/routes/cv/+page.svelte,33,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,0
+src/routes/cv/+page.svelte,34,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,4,24
+src/routes/cv/+page.svelte,35,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,4,23
+src/routes/cv/+page.svelte,36,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,4,19
+src/routes/cv/+page.svelte,37,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,0
+src/routes/cv/+page.svelte,38,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,2
+src/routes/cv/+page.svelte,39,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,8
+src/routes/cv/+page.svelte,40,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,10
+src/routes/cv/+page.svelte,41,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,9
+src/routes/cv/+page.svelte,42,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,17
+src/routes/cv/+page.svelte,43,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,27
+src/routes/cv/+page.svelte,44,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,21
+src/routes/cv/+page.svelte,45,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,11
+src/routes/cv/+page.svelte,46,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,14
+src/routes/cv/+page.svelte,47,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,2
+src/routes/cv/+page.svelte,48,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,1
+src/routes/cv/+page.svelte,49,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,0
+src/routes/cv/+page.svelte,50,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,4,12
+src/routes/cv/+page.svelte,51,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,3,0
+src/routes/cv/+page.svelte,52,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,2
+src/routes/cv/+page.svelte,53,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,8
+src/routes/cv/+page.svelte,54,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,10
+src/routes/contact/+page.svelte,1,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,10
+src/routes/contact/+page.svelte,2,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,4,0
+src/routes/contact/+page.svelte,3,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,6,29
+src/routes/contact/+page.svelte,4,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,6,29
+src/routes/contact/+page.svelte,5,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,6,42
+src/routes/contact/+page.svelte,6,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,6,32
+src/routes/contact/+page.svelte,7,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,6,60
+src/routes/contact/+page.svelte,8,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,4,0
+src/routes/contact/+page.svelte,9,svelte,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,2,6
+src/routes/contact/+page.svelte,10,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,16
+src/routes/contact/+page.svelte,11,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,38
+src/routes/contact/+page.svelte,12,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,5
+src/routes/contact/+page.svelte,13,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,3
+src/routes/contact/+page.svelte,14,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,31
+src/routes/contact/+page.svelte,15,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,6
+src/routes/contact/+page.svelte,16,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,5
+src/routes/contact/+page.svelte,17,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,0
+src/routes/contact/+page.svelte,18,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,2,29
+src/routes/contact/+page.svelte,19,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,6
+src/routes/contact/+page.svelte,20,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,1,21
+src/routes/contact/+page.svelte,21,svelte,94ed3d25,Grace Huang,2024-03-05,22:34:35,-05:00,2024-03-05T22:34:35-05:00,0,7
+src/lib/index.js,1,js,2724a42,Grace Huang,2024-03-05,16:50:46,-05:00,2024-03-05T16:50:46-05:00,0,74
+src/lib/Projects.svelte,1,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,8
+src/lib/Projects.svelte,2,js,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,26
+src/lib/Projects.svelte,3,js,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,20
+src/lib/Projects.svelte,4,js,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/lib/Projects.svelte,5,js,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,40
+src/lib/Projects.svelte,6,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,9
+src/lib/Projects.svelte,7,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/lib/Projects.svelte,8,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,24
+src/lib/Projects.svelte,9,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,27
+src/lib/Projects.svelte,10,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,7
+src/lib/Project.svelte,1,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,8
+src/lib/Project.svelte,2,js,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,19
+src/lib/Project.svelte,3,js,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,1,20
+src/lib/Project.svelte,4,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,9
+src/lib/Project.svelte,5,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/lib/Project.svelte,6,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,9
+src/lib/Project.svelte,7,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,63
+src/lib/Project.svelte,8,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Project.svelte,9,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,29
+src/lib/Project.svelte,10,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,3
+src/lib/Project.svelte,11,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,0
+src/lib/Project.svelte,12,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,12
+src/lib/Project.svelte,13,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,0
+src/lib/Project.svelte,14,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,27
+src/lib/Project.svelte,15,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,4
+src/lib/Project.svelte,16,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,10
+src/lib/Project.svelte,17,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,0
+src/lib/Project.svelte,18,svelte,4a6f8f35,Grace Huang,2024-03-05,23:04:18,-05:00,2024-03-05T23:04:18-05:00,0,7
+src/lib/Project.svelte,19,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,1
+src/lib/Project.svelte,20,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,2
+src/lib/Project.svelte,21,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,6
+src/lib/Project.svelte,22,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,0
+src/lib/Project.svelte,23,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,7
+src/lib/Project.svelte,24,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,10
+src/lib/Project.svelte,25,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,24
+src/lib/Project.svelte,26,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,2,13
+src/lib/Project.svelte,27,css,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,1,0
+src/lib/Project.svelte,28,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Project.svelte,29,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,5
+src/lib/Project.svelte,30,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,8
+src/lib/Project.svelte,31,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/lib/Project.svelte,32,svelte,3c193e83,Grace Huang,2024-03-06,01:44:59,-05:00,2024-03-06T01:44:59-05:00,0,8
+src/lib/Pie.svelte,1,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,8
+src/lib/Pie.svelte,2,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,23
+src/lib/Pie.svelte,3,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,4,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,57
+src/lib/Pie.svelte,5,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,6,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,19
+src/lib/Pie.svelte,7,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,28
+src/lib/Pie.svelte,8,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,9,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,50
+src/lib/Pie.svelte,10,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,10
+src/lib/Pie.svelte,11,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,7
+src/lib/Pie.svelte,12,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,32
+src/lib/Pie.svelte,13,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,44
+src/lib/Pie.svelte,14,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,45
+src/lib/Pie.svelte,15,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,16,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,37
+src/lib/Pie.svelte,17,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,38
+src/lib/Pie.svelte,18,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,47
+src/lib/Pie.svelte,19,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,0
+src/lib/Pie.svelte,20,js,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/lib/Pie.svelte,21,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,9
+src/lib/Pie.svelte,22,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,23,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,23
+src/lib/Pie.svelte,24,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,29
+src/lib/Pie.svelte,25,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,18
+src/lib/Pie.svelte,26,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,0
+src/lib/Pie.svelte,27,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,0
+src/lib/Pie.svelte,28,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,0
+src/lib/Pie.svelte,29,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,6,31
+src/lib/Pie.svelte,30,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,6,28
+src/lib/Pie.svelte,31,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,8
+src/lib/Pie.svelte,32,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,28
+src/lib/Pie.svelte,33,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,4
+src/lib/Pie.svelte,34,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,5
+src/lib/Pie.svelte,35,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,27
+src/lib/Pie.svelte,36,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,27
+src/lib/Pie.svelte,37,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,0
+src/lib/Pie.svelte,38,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,3
+src/lib/Pie.svelte,39,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,4
+src/lib/Pie.svelte,40,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,17
+src/lib/Pie.svelte,41,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,20
+src/lib/Pie.svelte,42,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,31
+src/lib/Pie.svelte,43,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,20
+src/lib/Pie.svelte,44,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,0
+src/lib/Pie.svelte,45,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,5,20
+src/lib/Pie.svelte,46,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,0
+src/lib/Pie.svelte,47,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,0
+src/lib/Pie.svelte,48,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,3
+src/lib/Pie.svelte,49,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,3
+src/lib/Pie.svelte,50,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,6
+src/lib/Pie.svelte,51,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,52,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,7
+src/lib/Pie.svelte,53,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,3
+src/lib/Pie.svelte,54,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,12
+src/lib/Pie.svelte,55,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,14
+src/lib/Pie.svelte,56,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,57,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,39
+src/lib/Pie.svelte,58,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,14
+src/lib/Pie.svelte,59,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/lib/Pie.svelte,60,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,9
+src/lib/Pie.svelte,61,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,33
+src/lib/Pie.svelte,62,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,63,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,8
+src/lib/Pie.svelte,64,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,13
+src/lib/Pie.svelte,65,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,0
+src/lib/Pie.svelte,66,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/lib/Pie.svelte,67,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,68,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,4
+src/lib/Pie.svelte,69,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,49
+src/lib/Pie.svelte,70,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,53
+src/lib/Pie.svelte,71,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,14
+src/lib/Pie.svelte,72,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,12
+src/lib/Pie.svelte,73,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,10
+src/lib/Pie.svelte,74,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,75,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,45
+src/lib/Pie.svelte,76,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,30
+src/lib/Pie.svelte,77,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,78,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,8
+src/lib/Pie.svelte,79,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,57
+src/lib/Pie.svelte,80,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,4,28
+src/lib/Pie.svelte,81,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,0
+src/lib/Pie.svelte,82,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/lib/Pie.svelte,83,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,84,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,39
+src/lib/Pie.svelte,85,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,30
+src/lib/Pie.svelte,86,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,3,7
+src/lib/Pie.svelte,87,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,0
+src/lib/Pie.svelte,88,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/lib/Pie.svelte,89,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,10
+src/lib/Pie.svelte,90,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,10
+src/lib/Pie.svelte,91,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,5
+src/lib/Pie.svelte,92,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/lib/Pie.svelte,93,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,7
+src/lib/Pie.svelte,94,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,4
+src/lib/Pie.svelte,95,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,10
+src/lib/Pie.svelte,96,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,55
+src/lib/Pie.svelte,97,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,9
+src/lib/Pie.svelte,98,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,20
+src/lib/Pie.svelte,99,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/lib/Pie.svelte,100,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,0
+src/lib/Pie.svelte,101,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,2
+src/lib/Pie.svelte,102,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,10
+src/lib/Pie.svelte,103,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,5
+src/lib/Pie.svelte,104,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,9
+src/lib/Pie.svelte,105,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,16
+src/lib/Pie.svelte,106,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/lib/Pie.svelte,107,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,7
+src/lib/Pie.svelte,108,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,9
+src/lib/Pie.svelte,109,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,14
+src/lib/Pie.svelte,110,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,2,27
+src/lib/Pie.svelte,111,css,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,1,0
+src/lib/Pie.svelte,112,svelte,bc160811,Grace Huang,2024-03-19,23:16:41,-04:00,2024-03-19T23:16:41-04:00,0,8
+static/global.js,1,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,27
+static/global.js,2,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+static/global.js,3,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,44
+static/global.js,4,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,54
+static/global.js,5,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,1
+static/global.js,6,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,0
+static/global.js,7,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,43
+static/global.js,8,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,51
+static/global.js,9,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,2,19
+static/global.js,10,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,2,28
+static/global.js,11,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,2,23
+static/global.js,12,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,2,29
+static/global.js,13,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,4,38
+static/global.js,14,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,2,0
+static/global.js,15,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,2,16
+static/global.js,16,js,7773fb07,Grace Huang,2024-03-05,19:40:12,-05:00,2024-03-05T19:40:12-05:00,0,3

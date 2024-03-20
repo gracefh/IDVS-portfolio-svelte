@@ -2,6 +2,7 @@
   import projects from "$lib/projects.json";
   import Projects from "$lib/Projects.svelte";
   import { onMount } from "svelte";
+  import Stats from "../lib/Stats.svelte";
 
   //   let data = {
   //     public_repos: 12,
@@ -11,10 +12,12 @@
   //   };
 
   let data;
+  let stats;
 
   onMount(async () => {
     let res = await fetch("https://api.github.com/users/gracefh");
     data = await res.json();
+    stats = [{title: "Public Repos", value: data.public_repos}, {title: "Followers", value: data.followers}, {title: "Following", value: data.following}, {title: "Public Gists", value: data.public_gists}]
   });
 </script>
 
@@ -37,54 +40,10 @@
 
 {#if data}
   <h2>My GitHub S T A T S</h2>
-  <dl>
-    <div>
-      <dt>Public Repos</dt>
-      <dd>
-        {data.public_repos}
-      </dd>
-    </div>
-    <div>
-      <dt>Followers .-.</dt>
-      <dd>
-        {data.followers}
-      </dd>
-    </div>
-    <div>
-      <dt>Following .-.</dt>
-      <dd>
-        {data.following}
-      </dd>
-    </div>
-    <div>
-      <dt>Public Gists .-.</dt>
-      <dd>
-        {data.public_gists}
-      </dd>
-    </div>
-  </dl>
+  <Stats data={stats} />
 {:else}
   <div>No GitHub data to show</div>
 {/if}
 
 <style>
-  dl {
-    display: flex;
-    justify-content: space-around;
-  }
-
-  dl div {
-    text-align: right;
-  }
-  dt {
-    font-family:
-      Josefin Sans,
-      sans-serif;
-    color: rgb(95, 123, 139);
-    font-size: 120%;
-  }
-
-  dd {
-    font-size: 200%;
-  }
 </style>
