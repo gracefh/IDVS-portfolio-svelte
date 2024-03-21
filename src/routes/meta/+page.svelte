@@ -176,9 +176,10 @@
   }
   let svg;
   $: {
-    d3.select(svg).call(d3.brush());
-    d3.select(svg).selectAll(".overlay ~ *, .dots").raise();
+
     d3.select(svg).call(d3.brush().on("start brush end", brushed));
+    // d3.select(svg).call(d3.brush());
+    d3.select(svg).selectAll(".overlay ~ *, .dots").raise();
   }
 
   $: selectedCommits = brushSelection ? commits.filter(isCommitSelected) : [];
@@ -194,7 +195,6 @@
 </script>
 
 <h1>Meta Stats</h1>
-<p>Total lines of code: {data.length}</p>
 <Stats data={stats} />
 
 <h2>Commits by Time of Day</h2>
