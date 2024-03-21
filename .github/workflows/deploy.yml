@@ -26,12 +26,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: prebuild
-        env:
-          BASE_PATH: '/${{ github.event.repository.name }}'
-        run: |
-          npm run prebuild
-
       - name: build
         env:
           BASE_PATH: '/${{ github.event.repository.name }}'
