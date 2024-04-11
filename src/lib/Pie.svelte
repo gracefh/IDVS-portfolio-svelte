@@ -3,6 +3,7 @@
 
   export let data = [];
   export let selectedIndex = -1;
+  export let colors = d3.scaleOrdinal(d3.schemePastel1);
 
   let sliceGenerator = d3
     .pie()
@@ -13,7 +14,6 @@
 
   let arcData;
   let arcs;
-  let colors = d3.scaleOrdinal(d3.schemePastel1);
   let transitionDuration = 500;
 
   let oldData = [];
@@ -29,6 +29,7 @@
   $: {
     oldData = pieData;
     pieData = d3.sort(data, (d) => d.label);
+    pieData = d3.map(data, (d) => ({...d}))
     arcData = sliceGenerator(pieData);
     arcs = arcData.map((d) => arcGenerator(d));
     pieData = pieData.map((d, i) => ({ ...d, ...arcData[i], arc: arcs[i] }));
@@ -118,7 +119,7 @@
     {#each pieData as d, index (d.label)}
       <path
         d={d.arc}
-        fill={colors(d.label)}
+        fill={ colors(d.id ?? d.label) }
         style="
             --start-angle: {d.startAngle}rad;
             --end-angle: {d.endAngle}rad;"
@@ -169,8 +170,8 @@
 
     transform: rotate(var(--mid-angle)) translateY(0)
       rotate(calc(-1 * var(--mid-angle)));
-    transition-duration: 3000ms;
-    transition-property: transform;
+    /* transition-duration: 3000ms;
+    transition-property: transform; */
 
     &.selected {
       transform: rotate(var(--mid-angle)) translateY(-6px) scale(1.1)

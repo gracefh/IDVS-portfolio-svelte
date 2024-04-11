@@ -4,8 +4,10 @@
   import Stats from "../../lib/Stats.svelte";
   import { computePosition, autoPlacement, offset } from "@floating-ui/dom";
   import Pie from "$lib/Pie.svelte";
-  import Scatterplot from "$lib/Scatterplot.svelte";
+  import CommitScatterplot from "$lib/Scatterplot.svelte";
+  import FileLines from "./FileLines.svelte";
 
+  let colors = d3.scaleOrdinal(d3.schemePastel1);
   let data = [];
   $: commits = d3.sort(
     d3
@@ -112,7 +114,7 @@
   let selectedCommits = [];
 
   $: hasSelection = selectedCommits.length > 0;
-  $: selectedLines = (hasSelection ? selectedCommits : commits).flatMap(
+  $: selectedLines = (hasSelection ? selectedCommits : filteredCommits).flatMap(
     (d) => d.lines
   );
   $: languageBreakdown = d3.flatRollup(
@@ -120,6 +122,24 @@
     (d) => d.length,
     (d) => d.type
   );
+
+  $: files = d3
+    .sort(
+      d3
+        .groups(filteredLines, (d) => d.file)
+        .map(([name, lines]) => {
+          return { name, lines };
+        }),
+      (d) => -d.lines.length
+    )
+    .map((file) => {
+      file.lines = d3.sort(file.lines, (d) => d.line);
+      return file;
+    });
+
+  $: {
+    console.log(files)
+  }
 </script>
 
 <h1>Meta Stats</h1>
@@ -142,7 +162,7 @@
 </div>
 
 <h2>Commits by Time of Day</h2>
-<Scatterplot commits={filteredCommits} bind:selectedCommits={selectedCommits} />
+<CommitScatterplot commits={filteredCommits} bind:selectedCommits />
 <p>
   {hasSelection ? selectedCommits.length : "No"} commit{selectedCommits.length ===
   1
@@ -153,7 +173,9 @@
   data={Array.from(languageBreakdown).map(([language, lines]) => ({
     label: language,
     value: lines,
+    id: language,
   }))}
+  {colors}
 />
 <div>
   <h3>Language Breakdown</h3>
@@ -174,6 +196,8 @@
       </div>
     {/each}
   </dl>
+
+  <FileLines lines={filteredLines} {colors} {files} />
 </div>
 
 <style>
@@ -190,6 +214,8 @@
   .filter {
     display: flex;
     flex-direction: column;
+    position: sticky;
+    top: 1em;
   }
   .filter-input {
     flex: 1;
