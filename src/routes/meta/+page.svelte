@@ -54,6 +54,9 @@
           timezone: first.timezone,
           datetime: first.datetime,
           totalLines: lines.length,
+
+          hourFrac:
+            first.datetime.getHours() + first.datetime.getMinutes() / 60,
         };
 
         // Like ret.lines = lines
@@ -93,11 +96,12 @@
     .nice();
 
   $: yScale = d3
-    .scaleSqrt()
+    .scaleLinear()
     .domain([0, 24])
     .range([height - margin.bottom, margin.top]);
 
   $: rScale = d3
+
     .scaleLinear()
     .domain(d3.extent(commits.map((d) => d.totalLines)))
     .range([5, 30]);
@@ -151,39 +155,42 @@
       // dot unhovered
 
       showTooltip = false;
+    } else if (
+      evt.type === "click" ||
+      (evt.type === "keyup" && evt.key === "Enter")
+    ) {
+      selectedCommits = [commits[index]];
     }
   }
 
-  let brushSelection;
-  $: brushSelection = undefined;
-  function brushed(evt) {
-    brushSelection = evt.selection;
-  }
-
-  function isCommitSelected(commit) {
-    if (!brushSelection) {
-      return false;
-    }
-
-    let x = xScale(commit.datetime);
-    let y = yScale(commit.datetime.getHours());
-    return (
-      brushSelection[0][0] <= x &&
-      brushSelection[1][0] >= x &&
-      brushSelection[0][1] <= y &&
-      brushSelection[1][1] >= y
-    );
-  }
   let svg;
   $: {
-
     d3.select(svg).call(d3.brush().on("start brush end", brushed));
     // d3.select(svg).call(d3.brush());
     d3.select(svg).selectAll(".overlay ~ *, .dots").raise();
   }
 
-  $: selectedCommits = brushSelection ? commits.filter(isCommitSelected) : [];
-  $: hasSelection = brushSelection && selectedCommits.length > 0;
+  let selectedCommits = [];
+
+  function brushed(evt) {
+    let brushSelection = evt.selection;
+    selectedCommits = !brushSelection
+      ? []
+      : commits.filter((commit) => {
+          let min = { x: brushSelection[0][0], y: brushSelection[0][1] };
+          let max = { x: brushSelection[1][0], y: brushSelection[1][1] };
+          let x = xScale(commit.date);
+          let y = yScale(commit.hourFrac);
+
+          return x >= min.x && x <= max.x && y >= min.y && y <= max.y;
+        });
+  }
+
+  function isCommitSelected(commit) {
+    return selectedCommits.includes(commit);
+  }
+
+  $: hasSelection = selectedCommits.length > 0;
   $: selectedLines = (hasSelection ? selectedCommits : commits).flatMap(
     (d) => d.lines
   );
@@ -227,6 +234,7 @@
         role="button"
         on:focus={(evt) => dotInteraction(index, evt)}
         on:blur={(evt) => dotInteraction(index, evt)}
+        on:click={(evt) => dotInteraction(index, evt)}
       />
     {/each}
   </g>
@@ -237,7 +245,12 @@
     ? ""
     : "s"} selected
 </p>
-<Pie data={Array.from(languageBreakdown).map(([language, lines]) => ({label: language, value: lines}))} />
+<Pie
+  data={Array.from(languageBreakdown).map(([language, lines]) => ({
+    label: language,
+    value: lines,
+  }))}
+/>
 <div>
   <h3>Language Breakdown</h3>
   <!-- 
@@ -251,7 +264,9 @@
     {#each languageBreakdown as [language, lines]}
       <div>
         <dt>{language}</dt>
-        <dd>{lines} lines ({d3.format(".1~%")(lines/selectedLines.length)})</dd>
+        <dd>
+          {lines} lines ({d3.format(".1~%")(lines / selectedLines.length)})
+        </dd>
       </div>
     {/each}
   </dl>
@@ -357,11 +372,11 @@
 
   .breakdown {
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
   }
 
   .breakdown dt {
     font-size: 125%;
-    font-weight:500;
+    font-weight: 500;
   }
 </style>
