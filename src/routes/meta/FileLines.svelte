@@ -1,43 +1,36 @@
 <script>
   import * as d3 from "d3";
-  import { flip } from "svelte/animate";
+  import { flip as originalFlip } from "svelte/animate";
   import { crossfade, fade, scale, slide } from "svelte/transition";
 
   export let lines = [];
   export let colors = d3.scaleOrdinal(d3.schemePastel1);
 
-  export let files = [];
-//   $: {
-//     files = d3
-//       .sort(
-//         d3
-//           .groups(lines, (d) => d.file)
-//           .map(([name, lines]) => {
-//             return { name, lines };
-//           }),
-//         (d) => -d.lines.length
-//       )
-//       .map((file) => {
-//         file.lines = d3.sort(file.lines, (d) => d.line);
-//         return file;
-//       });
-//   }
+  let files = [];
+  $: {
+    files = d3
+      .groups(lines, (d) => d.file)
+      .map(([name, lines]) => {
+        return { name, lines };
+      });
+    files = d3.sort(files, (d) => -d.lines.length);
+  }
+
+  function getFlip() {
+    return originalFlip;
+  }
+  $: flip = getFlip(files);
 </script>
 
-<dl class="files">
+<dl class="files" in:fade>
   {#each files as file (file.name)}
-    <div transition:crossfade={{duration:400, delay:400}} animate:flip={{ duration: 400}}>
+    <div animate:flip>
       <dt>
         <code>{file.name}</code>
       </dt>
       <dd>
         {#each file.lines as line (line.line)}
-          <div
-            class="line"
-            style="--color: {colors(line.type)}"
-            in:fade={{ duration: 400 }}
-            out:fade={{ duration: 400 }}
-          ></div>
+          <div class="line" style="--color: {colors(line.type)}" in:scale></div>
         {/each}
       </dd>
     </div>
@@ -53,6 +46,8 @@
       grid-column: 1 / -1;
       display: grid;
       grid-template-columns: subgrid;
+      background: hsl(0 0% 100% / 90%);
+      box-shadow: 0 0 0.2em 0.2em hsl(0 0% 100% / 90%);
     }
   }
 

@@ -129,6 +129,7 @@
       <circle
         cx={xScale(commit.datetime)}
         cy={yScale(commit.datetime.getHours())}
+        style={`--r: ${rScale(commit.totalLines)}`}
         r={rScale(commit.totalLines)}
         class:selected={isCommitSelected(commit)}
         fill="steelblue"
@@ -180,6 +181,9 @@
 
     transform-origin: 50% 50%;
     transform-box: fill-box;
+    transition:
+      all 100ms,
+      r calc(var(--r) * 50ms);
 
     @starting-style {
       r: 0;
